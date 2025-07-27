@@ -23,8 +23,4 @@ This project focuses on analyzing a dataset of over 9,000 Netflix movies using P
 - `mymoviesdbcsv` – Dataset used for the analysis.
 - `README.md` – Project overview and instructions.
 
-# Getting Started
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/Netflix_Movie_Data_Analysis.git
