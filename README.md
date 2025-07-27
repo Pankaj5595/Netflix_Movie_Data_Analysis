@@ -2,14 +2,14 @@
 
 This project focuses on analyzing a dataset of over 9,000 Netflix movies using Python. The aim is to uncover insights that can help in making informed business decisions based on genre trends, popularity, votes, and release frequency.
 
-## 📊 Objectives
+# Objectives
 
 - Identify the most frequent genre of movies released on Netflix.
 - Determine which genre received the highest number of votes.
 - Find the movie with the highest and lowest popularity, along with their genres.
 - Analyze which year had the most movies filmed.
 
-## 🧰 Tools & Technologies
+# Tools & Technologies
 
 - Python
 - Pandas
@@ -17,7 +17,7 @@ This project focuses on analyzing a dataset of over 9,000 Netflix movies using P
 - Jupyter Notebook
 - CSV dataset (mymoviesdb.csv)
 
-## 📁 Files Included
+# Files Included
 
 - `Project_DA__Netflix` – Jupyter Notebook with code and visualizations.
 - `mymoviesdbcsv` – Dataset used for the analysis.
